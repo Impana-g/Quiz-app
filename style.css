@@ -62,3 +62,11 @@
     cursor:pointer;
     display: block;
    }
+   .correct{
+    background: #4BB543;
+    
+   }
+   .incorrect{
+    background: #FF9494;
+    
+   }
